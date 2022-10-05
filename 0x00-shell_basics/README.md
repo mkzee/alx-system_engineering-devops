@@ -1,0 +1,1 @@
+This shell script prints the absolute path of a directory
